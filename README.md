@@ -11,8 +11,8 @@
 - 💻 Languages: **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**
 - ⚙️ Frameworks: **Spring Boot**, **Django**, **React**, **Node.js**
 - 🛢️ Databases: **PostgreSQL**, **MySQL**
-- 🔧 Tools: **Git**, **Postman**, **WebSocket**, **Render**, **Docker**
-- 🎨 Styling: **SASS**, **Bootstrap**, **TailwindCSS**
+- 🔧 Tools: **Git**, **Postman**, **Render**, **Docker**
+- 🎨 Styling: **Bootstrap**, **React-Bootstrap**
 
 ---
 
