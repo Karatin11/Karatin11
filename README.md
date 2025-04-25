@@ -45,18 +45,18 @@
 
 ## 🌟 Project Gallery
 
-| Project | Description | Link |
+| Project | Description |
 | :---: | :--- | :---: |
-| 🛒 **E-Commerce App** | Full-Stack shop website built with Spring Boot and React | [View Project](#) |
-| 🧾 **Admin Dashboard** | React Admin panel with authentication and charts | [View Project](#) |
-| 🤖 **Telegram Bot** | Python Aiogram based bot for shops and services | [View Project](#) |
-| 📚 **Learning Platform** | Web app for online courses and exams | [View Project](#) |
+| 🛒 **E-Commerce App** | Full-Stack shop website built with Python and React |
+| 🧾 **Admin Dashboard** | React Admin panel with authentication and charts |
+| 🤖 **Telegram Bot** | Python Aiogram based bot for shops and services |
+| 📚 **ChatGPTbot** | A bot that answers your questions |
 
 ---
 
 ## 📫 How to reach me
 - 🌐 Website: [shakhruzsharipov.pp.ua](https://shakhruzsharipov.pp.ua)
-- 📬 Telegram: [@IAMProgramist](https://t.me/IAMProgramist)
+- 📬 Telegram: [Shakhruz Sharipov](https://t.me/IAMProgramist)
 
 ---
 
