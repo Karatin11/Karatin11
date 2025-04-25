@@ -22,25 +22,24 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karatin11&show_icons=true&theme=radical&custom_title=Boosted%20Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karatin11&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karatin11&show_icons=true&theme=tokyonight&border_radius=15&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karatin11&theme=tokyonight&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karatin11&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karatin11&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-12.4k-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Commits-12.4k-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Repositories-74-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Pull%20Requests-852-orange?style=for-the-badge&logo=githubactions" />
   <img src="https://img.shields.io/badge/Contributions-25k-red?style=for-the-badge&logo=github" />
 </p>
 
----
 
 ## 🏆 Achievements
 
