@@ -27,19 +27,15 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karatin11&show_icons=true&theme=radical&border_radius=20&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karatin11&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karatin11&show_icons=true&theme=radical&border_radius=20&count_private=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karatin11&theme=radical" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karatin11&theme=radical&border_radius=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-12.4k-purple?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Repositories-74-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-852-orange?style=for-the-badge&logo=githubactions" />
-  <img src="https://img.shields.io/badge/Contributions-25k-red?style=for-the-badge&logo=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karatin11&theme=radical" />
 </p>
 
 ---
