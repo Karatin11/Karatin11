@@ -35,10 +35,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-12.4k-purple?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Repositories-74-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-852-orange?style=for-the-badge&logo=githubactions" />
-  <img src="https://img.shields.io/badge/Contributions-25k-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Commits-10k+-purple?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Repositories-100+-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-100+-orange?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Contributions-1k+-red?style=for-the-badge&logo=github" />
 </p>
 
 ---
