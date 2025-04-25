@@ -6,13 +6,31 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <h3 align="center">💻 Tech Stack</h3>
 
-- 💻 Languages: **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**
-- ⚙️ Frameworks: **Spring Boot**, **Django**, **React**, **Node.js**
-- 🛢️ Databases: **PostgreSQL**, **MySQL**
-- 🔧 Tools: **Git**, **Postman**, **Render**, **Docker**
-- 🎨 Styling: **Bootstrap**, **React-Bootstrap**
+<p align="center">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px; animation: pulse 2s infinite;">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px; animation: pulse 2s infinite;">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px; animation: pulse 2s infinite;">
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin: 10px; animation: pulse 2s infinite;">
+  </a>
+</p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
+
 
 ---
 
