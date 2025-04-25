@@ -46,11 +46,11 @@
 ## 🌟 Project Gallery
 
 | Project | Description |
-| :---: | :--- | :---: |
-| 🛒 **E-Commerce App** | Full-Stack shop website built with Python and React |
-| 🧾 **Admin Dashboard** | React Admin panel with authentication and charts |
-| 🤖 **Telegram Bot** | Python Aiogram based bot for shops and services |
-| 📚 **ChatGPTbot** | A bot that answers your questions |
+| :---: | :---: |
+| 🛒 **E-Commerce App** | Full-Stack shop website built with Python and React | |
+| 🧾 **Admin Dashboard** | React Admin panel with authentication and charts | |
+| 🤖 **Telegram Bot** | Python Aiogram based bot for shops and services | |
+| 📚 **ChatGPTbot** | A bot that answers your questions | |
 
 ---
 
