@@ -65,8 +65,12 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://shakhruzsharipov.pp.ua"><img src="https://img.shields.io/badge/Website-shakhruzsharipov.pp.ua-007ACC?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://t.me/@DeathTouchInto"><img src="https://img.shields.io/badge/Telegram-@DeathTouchInto)?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://shakhruzsharipov.pp.ua">
+    <img src="https://img.shields.io/badge/Website-shakhruzsharipov.pp.ua-007ACC?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://t.me/DeathTouchInto">
+    <img src="https://img.shields.io/badge/Telegram-@DeathTouchInto-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
 </p>
 
 ---
